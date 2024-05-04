@@ -1,3 +1,4 @@
+//test
 import fetch from 'node-fetch';
 export const toofakeproxy = async (req, res) => {
     const target = req.query.target;
